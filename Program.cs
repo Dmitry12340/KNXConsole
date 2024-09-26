@@ -65,7 +65,8 @@ namespace KNXTest
 
 
 
-
+            Console.WriteLine("Нажмите любую клавишу что бы завершить программу");
+            Console.ReadLine();
 
 
             //Закрываем соединение
